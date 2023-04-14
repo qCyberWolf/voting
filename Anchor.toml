@@ -5,7 +5,7 @@ skip-lint = false
 strawsoll = "6s5JqB54MEjW6SX4AtYgWQJEsLKj6C1Q5pj1LCD6PnY7"
 
 [registry]
-url = "https://api.apr.dev"
+url = "https://api.mainnet-beta.solana.com"
 
 [provider]
 cluster = "mainnet"
