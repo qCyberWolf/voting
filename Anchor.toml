@@ -8,7 +8,7 @@ strawsoll = "6s5JqB54MEjW6SX4AtYgWQJEsLKj6C1Q5pj1LCD6PnY7"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "devnet"
+cluster = "mainnet"
 wallet = "/home/ito/.config/solana/id.json"
 
 [scripts]
